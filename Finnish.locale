@@ -70,6 +70,7 @@ APP_MENU_CATEGORY_SECURITY=Tietoturva
 APP_MENU_CATEGORY_UTILITIES=Hyöty
 APP_MENU_CATEGORY_OTHER=Muuta
 APP_MENU_DONATE=Lahjoita
+APP_MENU_PIN_TO_TASKBAR=&Kiinnitä tehtäväpalkkiin
 APP_MENU_PREFIX_APP=Ohjelma
 APP_MENU_WEBSITE=Verkkosivu
 DRIVE_SPACE=$DRIVEFREE vapaana / $DRIVETOTAL
@@ -144,6 +145,7 @@ CLOSE_APPS_ON_EXIT_QUERY=Haluatko automaattisesti sulkea kaikki Portable-ohjelma
 CLOSE_APPS_ON_EXIT_QUERY_HEADER=Suljetaanko kaikki avoimet ohjelmat?
 SECURITY_HASH_FAILED_ON_FILE=Tiedostoa %HASHEDFILE% on muutettu tai sitä ei pitäisi olla tässä sijainnissa. Tämä saattaa olla merkki yrityksestä kaapata ohjelma salaa käyttämällä DLL -injektiota. Tarkista ohjelma ennen kuin käytät sitä.
 SECURITY_UNEXPECTED_DLLS=Yksi tai moni DLL -tiedosto on löydetty samasta sijainnista kuin %LAUNCHERFILE%. Tämä saattaa olla merkki yrityksestä kaapata ohjelma salaa käyttämällä DLL -injektiota. Tarkista ohjelma ennen kuin käytät sitä.
+TASKBAR_LINK_CREATED=Avautuvasta resurssienhallinnan ikkunasta raahaa hiirellä ohjelman %SHORTCUTNAME% pikakuvake tehtäväpalkkiin jotta saat sen kiinnitettyä siihen. Voit tämän jälkeen sulkea resurssienhallinnan ikkunan.
 
 [PORTABLEAPPS.COM_ICON]
 SHOW_PLATFORM=&Näytä PortableApps.com Platform
@@ -181,6 +183,9 @@ TAB_CONNECTION=Yhteys
 TAB_FILE_ASSOCIATIONS=Tiedostoliitännät
 TAB_FONTS=Fontit
 TAB_ADVANCED=Lisäasetukset
+TAB_UPDATER=Päivitys
+TAB_ORGANIZATION=Järjestys
+TAB_APP_STORE=Sovelluskauppa
 CONNECTION_CONNECTION_TYPE=Yhteyden tyyppi
 CONNECTION_TYPE_AUTOMATIC=Automaattinen (Suositeltava)
 CONNECTION_TYPE_DIRECT=Suora yhteys (Ei välityspalvelinta)
@@ -254,6 +259,14 @@ ADVANCED_COLLAPSE_CATEGORIES_ON_MINIMIZE=Pienennä kategoriat
 ADVANCED_KEYBOARD_FRIENDLY=Näytön lukemista helpottavat valinnat päivityksissä sekä ohjelmahakemistoissa
 ADVANCED_CLOSE_APPS_ON_PLATFORM_EXIT=Sulje ohjelmat, kun Platform suljetaan
 ADVANCED_SEARCH_WITHIN_APP_DESCRIPTIONS=Etsi ohjelmien kuvauksista
+ADVANCED_LOGGING=Kirjaa Platformin tapahtumat tekstitiedostoon
+ADVANCED_APP_PATHS_TOOLTIPS=Näytä ohjelman polku työkaluvihjeissä
+ADVANCED_APP_PUBLISHER_TOOLTIPS=Näytä ohjelman julkaisija työkaluvihjeissä
+ADVANCED_KEEP_MENU_VISIBLE=Pidä valikko näkyvillä ohjelman käynnistyksen jälkeen
+ADVANCED_START_MINIMIZED=Käynnistä valikko pienennettynä
+SHOW_UPDATER_STARTUP_ERRORS=Näytä päivityksen käynnistysvirheet
+HIDE_TASKBAR_ICON=Piilota tehtäväpalkin kuvakkeet (tulee voimaan ensi kerralla)
+HIDE_SEARCH_WHEN_NOT_IN_USE=Piilota hakupalkki, kun sitä ei käytetä
 
 [FORM_ABOUT]
 TAB_PLATFORM=Platform
