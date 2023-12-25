@@ -4,6 +4,6 @@ This active repository include official Finnish translations of the [PortableApp
 ## Files from this repository
 | File | Description |
 | ----------- | ----------- |
-| Finnish.locale | Finnish translation of PortableApps.com Platform |
-| Finnish.nsh | Finnish translation of PA.c Installer and Platform Installer |
-| eula-Finnish.txt | Finnish translation of PA.c Platform Installer Introduction/License |
+| Finnish.locale | Finnish translation of PortableApps.com Platform. |
+| Finnish.nsh | Finnish translation of PA.c Installer and Platform Installer. |
+| eula-Finnish.txt | Finnish translation of PA.c Platform Installer Introduction/License. |
